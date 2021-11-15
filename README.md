@@ -7,7 +7,7 @@
 
 M.Sc. Deep learning project dev repo
 
-[https://www.kaggle.com/c/gan-getting-started/data](Kaggle page)
+[Kaggle page](https://www.kaggle.com/c/gan-getting-started/data)
 
 # Env installation
 
